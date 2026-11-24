@@ -1,3 +1,13 @@
+## Author
+
+**Nishant Mishra**
+Class:-First Year
+Section:-A
+URN No.:-E26B03F2719
+
+- GitHub: [@sirnishant_m](https://github.com/sirnishant_m)# Student_Expense_Tracker
+The Student Expense Tracker is a front-end web application built using HTML, CSS, and JavaScript that allows students to record, manage, and monitor their daily expenses in a simple and intuitive interface.
+
 # Student Expense Tracker – Project Description
 
 The Student Expense Tracker is a front-end web application built using HTML, CSS, and JavaScript that allows students to record, manage, and monitor their daily expenses in a simple and intuitive interface.
@@ -32,10 +42,3 @@ JavaScript and DOM Manipulation for all dynamic functionality including adding/d
 Conclusion
 
 This project demonstrates practical use of front-end development fundamentals — form handling, event-driven programming, DOM manipulation, and responsive design — packaged into a useful, real-world application.
-
-## Author
-
-**Nishant Mishra**
-
-- GitHub: [@sirnishant_m](https://github.com/sirnishant_m)# Student_Expense_Tracker
-The Student Expense Tracker is a front-end web application built using HTML, CSS, and JavaScript that allows students to record, manage, and monitor their daily expenses in a simple and intuitive interface.

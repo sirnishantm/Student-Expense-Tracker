@@ -1,0 +1,73 @@
+*,
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 40px 16px;
+}
+
+.container {
+    background-color: white;
+    width: 500px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.input-section {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+input,
+select {
+    padding: 8px;
+    flex: 1;
+}
+
+button {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.filter-section {
+    margin-top: 15px;
+}
+
+.total-section {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 8px;
+    margin-top: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+}
+
+li span.category {
+    background-color: #ddd;
+    padding: 2px 8px;
+    border-radius: 5px;
+    font-size: 14px;
+}
